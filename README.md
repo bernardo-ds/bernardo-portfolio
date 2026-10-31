@@ -18,8 +18,8 @@ Utilizo este espaço para apresentar meus projetos, compartilhar conhecimentos e
 ### Tecnologias e ferramentas
 
 **Front-end**
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - TypeScript
 - React
